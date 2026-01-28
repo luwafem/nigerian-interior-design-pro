@@ -15,11 +15,11 @@ export const portfolioItems = [
     fullDescription: `This 5-bedroom penthouse in Victoria Island showcases a perfect blend of modern luxury and Nigerian craftsmanship. The design incorporates locally-sourced materials like Adire fabrics, Benin bronze accents, and custom-made furniture from Nigerian artisans. The project focused on creating a seamless indoor-outdoor living experience with smart home integration and sustainable design principles.`,
     
     // SEO Optimization
-    seoTitle: "Luxury Penthouse Interior Design in Victoria Island Lagos | matches luxury Interiors",
+    seoTitle: "Luxury Penthouse Interior Design in Victoria Island Lagos | adieva's interiors",
     metaDescription: "Explore our luxury penthouse interior design project in Victoria Island, Lagos. 5-bedroom, 650 sqm space with bespoke Nigerian craftsmanship, custom furniture, and smart home automation.",
     
     // Social Sharing
-    shareTitle: "Check out this luxury penthouse design by matches luxury Interiors",
+    shareTitle: "Check out this luxury penthouse design by adieva's interiors",
     shareDescription: "Contemporary Nigerian interior design with panoramic ocean views",
     
     // Images
@@ -56,7 +56,7 @@ export const portfolioItems = [
               name: "Custom Sectional Sofa",
               dimensions: "3.5m x 1.2m x 0.8m",
               material: "Premium Nigerian leather",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 1
             },
             {
@@ -70,7 +70,7 @@ export const portfolioItems = [
               name: "Media Console",
               dimensions: "3m x 0.5m x 0.6m",
               material: "Walnut wood with brass handles",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 1
             },
             {
@@ -91,14 +91,14 @@ export const portfolioItems = [
               name: "Dining Table",
               dimensions: "2.4m x 1.2m x 0.75m",
               material: "Solid mahogany with marble inlay",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 1
             },
             {
               name: "Dining Chairs",
               dimensions: "0.5m x 0.6m x 0.9m",
               material: "Velvet upholstery with brass legs",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 8
             },
             {
@@ -119,21 +119,21 @@ export const portfolioItems = [
               name: "King Size Bed",
               dimensions: "2m x 2.2m x 1.2m",
               material: "Upholstered headboard in suede",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 1
             },
             {
               name: "Nightstands",
               dimensions: "0.6m x 0.5m x 0.6m",
               material: "Walnut wood with marble tops",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 2
             },
             {
               name: "Wardrobe System",
               dimensions: "4m x 0.6m x 2.4m",
               material: "Custom built-in with LED lighting",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 1
             }
           ]
@@ -226,7 +226,7 @@ export const portfolioItems = [
               name: "Boardroom Table",
               dimensions: "4.8m x 1.8m x 0.75m",
               material: "Walnut wood with built-in AV",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 1
             },
             {
@@ -296,7 +296,7 @@ export const portfolioItems = [
               name: "L-Shaped Sectional",
               dimensions: "3m x 2.5m x 0.85m",
               material: "Durable performance fabric",
-              manufacturer: "matches luxury Custom Furniture",
+              manufacturer: "adieva's interiors",
               quantity: 1
             },
             {

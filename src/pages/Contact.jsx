@@ -17,13 +17,13 @@ const Contact = () => {
 
   const contactDetails = [
     { label: "Studio", value: "Lagos Design District, VI" },
-    { label: "General", value: "hello@matchesluxury.com" },
-    { label: "Phone", value: "+234 800 matches" }
+    { label: "General", value: "hello@adievasinteriors.com" },
+    { label: "Phone", value: "+234 800 ADIEVA" }
   ];
 
   return (
     <>
-      <SEO title="Inquiry | matchesluxury" description="Start your project with matchesluxury." />
+      <SEO title="Inquiry | adieva's interiors" description="Start your project with adieva's interiors." />
       
       <div className="min-h-screen bg-white pt-40 pb-20 px-6">
         <div className="container mx-auto">

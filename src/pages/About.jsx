@@ -23,7 +23,7 @@ const About = () => {
 
   return (
     <>
-      <SEO title="Our Ethos | matches luxury" description="The story of matches luxury." url="/about" />
+      <SEO title="Our Ethos | adieva's interiors" description="The story of adieva's interiors." url="/about" />
       
       <div className="min-h-screen bg-white">
         {/* EDITORIAL HERO */}
@@ -46,7 +46,7 @@ const About = () => {
               </div>
               <div className="lg:col-span-5">
                 <p className="text-lg text-[#555] font-light leading-relaxed border-l border-black/10 pl-8">
-                  Founded in 2010, matches luxury was born from a desire to reconcile the rich textures of West African heritage with the precision of global modernism.
+                  Founded in 2010, adieva's interiors was born from a desire to reconcile the rich textures of West African heritage with the precision of global modernism.
                 </p>
               </div>
             </div>

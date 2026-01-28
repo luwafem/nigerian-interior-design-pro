@@ -16,7 +16,7 @@ const Gallery = () => {
 
   return (
     <>
-      <SEO title="Visual Archive | matches luxury" description="Immersive gallery of luxury interiors." url="/gallery" />
+      <SEO title="Visual Archive | adieva's interiors" description="Immersive gallery of luxury interiors." url="/gallery" />
       
       <div className="min-h-screen bg-white">
         {/* HERO — Quiet Entrance */}

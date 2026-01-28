@@ -1,6 +1,6 @@
 // src/utils/sitemapGenerator.js
 export const generateSitemap = (projects) => {
-  const baseUrl = 'https://matchesluxury.com';
+  const baseUrl = 'https://adievasinteriors.com';
   const pages = [
     { url: '/', priority: 1.0, changefreq: 'daily' },
     { url: '/portfolio', priority: 0.9, changefreq: 'weekly' },

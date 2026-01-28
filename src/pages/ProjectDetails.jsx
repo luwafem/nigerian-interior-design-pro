@@ -22,7 +22,7 @@ const ProjectDetails = () => {
 
   return (
     <>
-      <SEO title={`${project.title} | matches luxury`} description={project.description} image={project.featuredImage} />
+      <SEO title={`${project.title} | adieva's interiors`} description={project.description} image={project.featuredImage} />
 
       <article className="bg-white text-[#1A1A1A]">
         {/* EDITORIAL HERO */}
@@ -196,7 +196,7 @@ const ProjectDetails = () => {
               ← Back to Portfolio
             </Link>
             <div className="h-px w-24 bg-black/10 hidden md:block" />
-            <span className="text-[10px] uppercase tracking-[0.4em] text-[#AAA]">matches luxury © 2026</span>
+            <span className="text-[10px] uppercase tracking-[0.4em] text-[#AAA]">adieva's interiors © 2026</span>
           </div>
         </section>
       </article>

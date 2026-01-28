@@ -1,26 +1,26 @@
 // src/data/siteData.js
 export const siteData = {
   company: {
-    name: "MATCHES LUXURY",
+    name: "ADIEVA'S INTERIORS",
     tagline: "Blank Space into the paradise of your dreams",
     description: "Premium interior design firm blending contemporary aesthetics with rich Nigerian cultural heritage",
     address: "Lagos, Nigeria",
     phone: "+234 801 234 5678",
-    email: "hello@matchesluxury.com",
+    email: "hello@adievasinteriors.com",
     social: {
-      instagram: "https://instagram.com/matchesluxury",
-      pinterest: "https://pinterest.com/matchesluxury",
-      linkedin: "https://linkedin.com/company/matchesluxury",
+      instagram: "https://instagram.com/adievasinteriors",
+      pinterest: "https://pinterest.com/adievasinteriors",
+      linkedin: "https://linkedin.com/company/adievasinteriors",
     }
   },
   
   seo: {
-    title: "matches luxury Interiors | Luxury Interior Design in Nigeria",
+    title: "adieva's interiors | Luxury Interior Design in Nigeria",
     description: "Premium interior design services in Lagos, Nigeria. Contemporary African aesthetics, luxury residential & commercial spaces.",
     keywords: "interior design Nigeria, Lagos interior designer, African interior design, luxury homes Nigeria, office design Lagos",
-    author: "matches luxury Interiors",
+    author: "adieva's interiors",
     ogImage: "/og-image.jpg",
-    siteUrl: "https://matchesluxury.com"
+    siteUrl: "https://adievasinteriors.com"
   },
   
   navigation: [

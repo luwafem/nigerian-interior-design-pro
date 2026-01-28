@@ -24,7 +24,7 @@ const Services = () => {
 
   return (
     <>
-      <SEO title="Services | matches luxury" description="Premium interior design solutions." url="/services" />
+      <SEO title="Services | adieva's interiors" description="Premium interior design solutions." url="/services" />
       
       <div className="min-h-screen bg-white pt-32 pb-20">
         {/* HERO */}

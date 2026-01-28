@@ -14,7 +14,7 @@ const SEO = ({
   section,
   tags 
 }) => {
-  const siteUrl = "https://matchesluxury.com";
+  const siteUrl = "https://adievasinteriors.com";
   const defaultImage = "/og-default.jpg";
   
   return (
@@ -31,7 +31,7 @@ const SEO = ({
       <meta property="og:image" content={image || defaultImage} />
       <meta property="og:url" content={`${siteUrl}${url}`} />
       <meta property="og:type" content={type} />
-      <meta property="og:site_name" content="matches luxury" />
+      <meta property="og:site_name" content="adieva's interiors" />
       <meta property="og:locale" content="en_NG" />
       
       {/* Twitter Card */}
@@ -71,7 +71,7 @@ const SEO = ({
           },
           "publisher": {
             "@type": "Organization",
-            "name": "matches luxury",
+            "name": "adieva's interiors",
             "logo": {
               "@type": "ImageObject",
               "url": `${siteUrl}/logo.png`

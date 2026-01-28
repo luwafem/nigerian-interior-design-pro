@@ -10,7 +10,7 @@ import {
 import { motion, AnimatePresence } from 'framer-motion';
 
 const SocialShare = ({ url, title, description, image, tags = [] }) => {
-  const fullUrl = `https://matchesluxury.com${url}`;
+  const fullUrl = `https://adievasinteriors.com${url}`;
   const [copied, setCopied] = useState(false);
 
   const copyToClipboard = () => {
